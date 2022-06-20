@@ -31,7 +31,7 @@ const small=fullName.toUpperCase();
 
 console.log(lastName.indexOf('r'));
 
-
+console.groupEnd("hewqdwqfdewfe")
 
 
 
